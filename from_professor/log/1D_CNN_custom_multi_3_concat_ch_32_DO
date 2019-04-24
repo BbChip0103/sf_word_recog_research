@@ -1,0 +1,6 @@
+1D_CNN_custom_multi_3_concat_ch_32_DO_3_conv	0.5225338	1.5206209133223458
+1D_CNN_custom_multi_3_concat_ch_32_DO_4_conv	0.6097612	1.2618204119297078
+1D_CNN_custom_multi_3_concat_ch_32_DO_5_conv	0.7838006	0.8005222551052692
+1D_CNN_custom_multi_3_concat_ch_32_DO_6_conv	0.89470404	0.41212150227986394
+1D_CNN_custom_multi_3_concat_ch_32_DO_7_conv	0.9354102	0.24532797088999367
+1D_CNN_custom_multi_3_concat_ch_32_DO_8_conv	0.93603325	0.22245212425076455
